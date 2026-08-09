@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=Mihir%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Java%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Booting+backend+services...;Loading+Java+%2B+Spring+Boot...;Compiling+DSA+solutions...;System+Ready+%E2%9C%93&font=Fira%20Code&center=true&width=560&height=50&color=2ea44f&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
@@ -6,26 +8,40 @@
 
 <br/>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### `> whoami`
+<div style="border:1px solid #2ea44f; border-radius:8px; overflow:hidden;">
+<div style="background:#161b22; padding:6px 14px; border-bottom:1px solid #2ea44f; font-family:monospace; color:#8b949e;">
+🔴 🟡 🟢 &nbsp;&nbsp;mihir@backend:~
+</div>
 
+```yaml
+> whoami
+
+Name        Mihir Singh
+Role        Backend / Java Developer (in-progress)
+Stack       Java · Spring Boot · MySQL · REST APIs
+Currently   Building SpringSight AI
+Focus       DSA discipline + production-grade backend design
+Status      Open to backend developer roles — July 2026
 ```
-Name        : Mihir Singh
-Role        : Backend / Java Developer (in-progress)
-Stack       : Java · Spring Boot · MySQL · REST APIs
-Currently   : Building SpringSight AI
-Focus       : DSA discipline + production-grade backend design
-Status      : Open to backend developer roles — July 2026
-```
+
+</div>
 
 </td>
-<td width="40%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://komarev.com/ghpvc/?username=aldehydeketone&label=Profile+Views&color=2ea44f&style=for-the-badge" alt="profile views"/><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=aldehydeketone&label=Profile+Views&color=2ea44f&style=for-the-badge" alt="profile views"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/github/followers/aldehydeketone?label=Followers&style=for-the-badge&color=2ea44f" alt="followers"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="open to work"/>
 
 </td>
 </tr>
@@ -33,7 +49,14 @@ Status      : Open to backend developer roles — July 2026
 
 <br/>
 
-## `> cat about.log`
+<div align="center">
+
+## 💭 `cat about.log`
+
+</div>
+
+<table align="center" width="90%">
+<tr><td>
 
 ```diff
 + Final-year IT student, treating backend engineering like a craft, not a checkbox.
@@ -42,9 +65,12 @@ Status      : Open to backend developer roles — July 2026
 ! Not chasing every framework. Going deep on Java + Spring Boot until it's second nature.
 ```
 
+</td></tr>
+</table>
+
 <br/>
 
-## `> ls featured-projects/`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=45&section=header&text=%3E%20ls%20featured-projects%2F&fontSize=18&fontColor=2ea44f&fontAlignY=65&fontAlign=5" width="100%"/>
 
 <table>
 <tr>
@@ -76,7 +102,7 @@ An AI-powered production log analyzer, purpose-built for Spring Boot developers 
 
 <br/>
 
-## `> tech --stack`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=45&section=header&text=%3E%20tech%20--stack&fontSize=18&fontColor=2ea44f&fontAlignY=65&fontAlign=5" width="100%"/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -91,7 +117,7 @@ An AI-powered production log analyzer, purpose-built for Spring Boot developers 
 
 <br/>
 
-## `> git log --stats`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=45&section=header&text=%3E%20git%20log%20--stats&fontSize=18&fontColor=2ea44f&fontAlignY=65&fontAlign=5" width="100%"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldehydeketone&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -112,7 +138,7 @@ An AI-powered production log analyzer, purpose-built for Spring Boot developers 
 
 <br/><br/>
 
-## `> contact --me`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=45&section=header&text=%3E%20contact%20--me&fontSize=18&fontColor=2ea44f&fontAlignY=65&fontAlign=5" width="100%"/>
 
 <p align="center">
   <a href="mailto:mihir304singh@gmail.com">
@@ -123,3 +149,7 @@ An AI-powered production log analyzer, purpose-built for Spring Boot developers 
 <div align="center">
 <i>"Debug smarter, not harder." — building backend systems one commit at a time.</i>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" width="100%"/>
